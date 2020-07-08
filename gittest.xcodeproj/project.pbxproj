@@ -15,6 +15,7 @@
 		CC6155BE24B5FE0200EDF376 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC6155BC24B5FE0200EDF376 /* LaunchScreen.storyboard */; };
 		CC6155C124B5FE0200EDF376 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CC6155C024B5FE0200EDF376 /* main.m */; };
 		CC6155CA24B5FF8D00EDF376 /* testVViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC6155C924B5FF8D00EDF376 /* testVViewController.m */; };
+		CC6155CD24B6013900EDF376 /* asdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC6155CC24B6013900EDF376 /* asdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		CC6155C024B5FE0200EDF376 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CC6155C824B5FF8D00EDF376 /* testVViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testVViewController.h; sourceTree = "<group>"; };
 		CC6155C924B5FF8D00EDF376 /* testVViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testVViewController.m; sourceTree = "<group>"; };
+		CC6155CB24B6013900EDF376 /* asdViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = asdViewController.h; sourceTree = "<group>"; };
+		CC6155CC24B6013900EDF376 /* asdViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = asdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 			children = (
 				CC6155C824B5FF8D00EDF376 /* testVViewController.h */,
 				CC6155C924B5FF8D00EDF376 /* testVViewController.m */,
+				CC6155CB24B6013900EDF376 /* asdViewController.h */,
+				CC6155CC24B6013900EDF376 /* asdViewController.m */,
 			);
 			path = testDemo;
 			sourceTree = SOURCE_ROOT;
@@ -164,6 +169,7 @@
 				CC6155C124B5FE0200EDF376 /* main.m in Sources */,
 				CC6155B324B5FE0000EDF376 /* SceneDelegate.m in Sources */,
 				CC6155CA24B5FF8D00EDF376 /* testVViewController.m in Sources */,
+				CC6155CD24B6013900EDF376 /* asdViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
